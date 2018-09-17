@@ -28,7 +28,7 @@ While you can use any editor of your choice to develop your app, you will need t
 - For iOS:
 Unsupported
 
--For Android:
+- For Android:
 Installing dependencies
 You will need Node, the React Native command line interface, Python2, a JDK, and Android Studio.
 
@@ -39,7 +39,7 @@ While you can use any editor of your choice to develop your app, you will need t
 - For iOS:
 Unsupported
 
--For Android:
+- For Android:
 Installing dependencies
 You will need Node, the React Native command line interface, a JDK, and Android Studio.
 
