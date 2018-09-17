@@ -1,6 +1,6 @@
 # React Native Weather App
 
-My first React Native Weather App
+My First React Native Weather App
 
 ## API I'm using for weather
 - wunderground api
