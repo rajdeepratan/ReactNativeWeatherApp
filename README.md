@@ -55,6 +55,6 @@ While you can use any editor of your choice to develop your app, you will need t
 
 ## How to get started!
 
-- For iOS: run `react-native run-iost` from the home directory.
+- For iOS: run `react-native run-ios` from the home directory.
 
 - For Android: `react-native run-android` from the home directory.
